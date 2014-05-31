@@ -1,0 +1,40 @@
+body {
+  background-image: url(/assets/images/background.jpg);
+  background-size: 4500px 1080px;
+  background-repeat: no-repeat;
+  font-family: "Lato", sans-serif;
+  color: white;
+  font-size: 14px;
+  height: 100vh;
+  text-align: left;
+}
+
+.logo {
+  margin-top: 15px;
+}
+
+.apl-name {
+  font-size:3.6em;
+  padding-top: 7%;
+  font-weight: bold;
+}
+
+.apl-info {
+  font-size: 1.8em;
+  margin-top: 40px;
+}
+
+
+.form-holder {
+  padding: 20px 30px 0px 30px;
+  background-color: rgba(0, 70, 128, 0.2);
+  border-radius: 5px; 
+  margin-top: 2%;
+}
+
+.call-to-action {
+  font-size: 1.2em;
+  text-align: left;
+  margin-top: -1%;
+}
+
